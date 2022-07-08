@@ -28,6 +28,7 @@ Create a serverless REST API
 I was able to get the GET route functioning but when I tried implementing another route, they both ended up breaking. After doing some research, I think it is because I was not giving the correct inputs to the second route. After seeing that route was broken I started messing around with the first route that was working and ended up breaking that one before realising that this was most likely the problem. I think if I had more time, I would scrap the second route and redo the first one making sure that its inputs were set up correctly like before, and then making sure that I remember to put the correct ones into the other routes.
 
 I took a screenshot of the working GET route from my previous commit and have attached it here:
+<img width="1728" alt="lab 18" src="https://user-images.githubusercontent.com/91757275/177908662-8bf195e4-d3b5-471e-91a0-8dcedf325410.png">
 
 
 UML:
